@@ -1,0 +1,7 @@
+@import "./variables";
+
+body {
+  background-color: $color;
+  display: flex;
+  transition: all 0.3s;
+}
